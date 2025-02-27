@@ -57,3 +57,5 @@ An autistic mindset with a strong passion for mathematics, programming, and soft
 <a href="https://www.linkedin.com/in/r4ajeti" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="r4ajeti" height="30" width="40" /></a>
 <a href="mailto:r4ajeti@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=40&id=Cjuj2uISMdQ1&format=png&color=000000" alt="r4ajeti" height="30" width="40" /></a>
 </p>
+
+![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB4ajJpZjFvNmxvNTRoYnJ0MWs1aG80NXM4bnFoNXNneTAwbDJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1DEJwfwdknKZq/giphy.gif)
