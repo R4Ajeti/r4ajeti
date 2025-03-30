@@ -38,7 +38,7 @@ An autistic mindset with a strong passion for mathematics, programming, and soft
 
 - 📫 How to reach me **r4ajeti@gmail.com**
 
-- ⚡ Fun fact **Small things make the difference**
+- ⚡ Fun fact ... **Small things make the difference**
 - 💬 Ask me about ... I love to discuss topics that are not human creation
 - 🎵 I love country music
 - 🔭 Fun fact **Besides my professional life I love reading\gif watching of "paradox" memes
