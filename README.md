@@ -44,10 +44,6 @@ An autistic mindset with a strong passion for mathematics, programming, and soft
 - 🔭 Fun fact **Besides my professional life I love reading\gif watching of "paradox" memes
 - 🌱 Fun fact **If you are still here and not understanding much then maybe it is better you don't (go away!)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
