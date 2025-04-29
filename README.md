@@ -3,7 +3,7 @@
 <h1 align="center" style="padding-top: 0;margin-top: -10px; color: #1A1B27; background-color: #0099ff;">Hi <img src="experimental-resource/image/hi-wave-hand.webp" width="40" alt="Hi">, I'm R!n0</h1>
 </div>
 
-An autistic mindset with a strong passion for mathematics, programming, and software architecture. This person is highly motivated to learn and master new technologies, particularly in the field of Machine Learning and Deep Learning. In my free time, I enjoy exploring Machine Learning models and spend a significant amount of time coding. I have a deep love for open-source projects, whould like to be an actively contributor, and strive to make my own work open-source as well. I highlight my dedication to continuous learning, technical interests, enthusiasm for advancing my skills in cloud infrastructure and AI, as well as my commitment to the open-source community.
+An autistic mindset with a strong passion for mathematics, programming, and software architecture. This person is highly motivated to learn and master new technologies, particularly in the field of Machine Learning and Deep Learning. In my free time, I enjoy exploring Machine Learning models and spend a significant amount of time coding. I have a deep love for open-source projects, would like to be an actively contributor, and strive to make my own work open-source as well. I highlight my dedication to continuous learning, technical interests, enthusiasm for advancing my skills in cloud infrastructure and AI, as well as my commitment to the open-source community.
 
 <div align="center">
 
