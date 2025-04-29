@@ -7,7 +7,8 @@ An autistic mindset with a strong passion for mathematics, programming, and soft
 
 <div align="center">
 
-# 📊 GitHub Stats:
+<img style="color: #1A1B27; background-color: #0099ff;" src="https://em-content.zobj.net/source/telegram/386/bar-chart_1f4ca.webp" width="40" alt="ChartBar"></img>
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=r4ajeti&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=r4ajeti&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=r4ajeti&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
@@ -47,11 +48,10 @@ An autistic mindset with a strong passion for mathematics, programming, and soft
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://twitter.com/r4ajeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="r4ajeti" height="30" width="40" /></a>
-<a href="https://fb.com/r4ajeti" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="r4ajeti" height="30" width="40" /></a>
-<a href="https://medium.com/@r4ajeti" target="blank"><img align="center" src="https://img.icons8.com/?size=40&id=m8ClhVaNuUH7&format=png" alt="@r4ajeti" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/r4ajeti" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="r4ajeti" height="30" width="40" /></a>
-<a href="mailto:r4ajeti@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/?size=40&id=Cjuj2uISMdQ1&format=png&color=000000" alt="r4ajeti" height="30" width="40" /></a>
-</p>
+<a href="https://twitter.com/r4ajeti" target="blank"><img align="center" src="experimental-resource/image/social-bubble-twitter.svg" alt="r4ajeti" height="30" width="40" /></a>
+<a href="https://fb.com/r4ajeti" target="blank"><img align="center" src="experimental-resource/image/social-bubble-fb.png" alt="r4ajeti" height="30" width="40" /></a>
+<a href="https://medium.com/@r4ajeti" target="blank"><img align="center" src="experimental-resource/image/social-bubble-medium.png" alt="@r4ajeti" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/r4ajeti" target="blank"><img align="center" src="experimental-resource/image/social-bubble-linkedin.png" alt="r4ajeti" height="30" width="40" /></a>
+<a href="mailto:r4ajeti@gmail.com" target="blank"><img align="center" src="experimental-resource/image/social-bubble-gmail.png" alt="r4ajeti" height="30" width="40" /></a>
 
 ![Alt Text](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzB4ajJpZjFvNmxvNTRoYnJ0MWs1aG80NXM4bnFoNXNneTAwbDJtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1DEJwfwdknKZq/giphy.gif)
