@@ -1,7 +1,7 @@
 <div align="center">
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="1" d="M0,288L48,272C96,256,192,224,288,197.3C384,171,480,149,576,165.3C672,181,768,235,864,250.7C960,267,1056,245,1152,250.7C1248,256,1344,288,1392,304L1440,320L1440,320L1392,320C1344,320,1248,320,1152,320C1056,320,960,320,864,320C768,320,672,320,576,320C480,320,384,320,288,320C192,320,96,320,48,320L0,320Z"></path></svg>
 <h1 align="center" style="padding-top: 0;margin-top: -10px; color: #1A1B27; background-color: #0099ff;">Hi <img src="experimental-resource/image/hi-wave-hand.webp" width="40" alt="Hi">, I'm R!n0</h1>
-</div>
+</div> 
 
 An autistic mindset with a strong passion for mathematics, programming, and software architecture. This person is highly motivated to learn and master new technologies, particularly in the field of Machine Learning and Deep Learning. In my free time, I enjoy exploring Machine Learning models and spend a significant amount of time coding. I have a deep love for open-source projects, would like to be an actively contributor, and strive to make my own work open-source as well. I highlight my dedication to continuous learning, technical interests, enthusiasm for advancing my skills in cloud infrastructure and AI, as well as my commitment to the open-source community.
 
