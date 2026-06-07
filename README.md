@@ -29,9 +29,7 @@ An autistic mindset with a strong passion for mathematics, programming, and soft
 [![](https://visitcount.itsvg.in/api?id=r4ajeti&icon=2&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rajeti) 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r4ajeti" alt="r4ajeti" /></a> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=r4ajeti" alt="r4ajeti" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/r4ajeti" target="blank"><img src="https://img.shields.io/twitter/follow/r4ajeti?logo=twitter&style=for-the-badge" alt="r4ajeti" /></a> </p>
 
