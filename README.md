@@ -113,9 +113,9 @@ Stack order is intentional: tools I use most in production come first, followed 
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=R4Ajeti&theme=tokyonight" alt="Rinor Ajeti GitHub profile details">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=R4Ajeti&theme=tokyo-night&hide_border=true&area=true" alt="Rinor Ajeti GitHub activity graph">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=r4ajeti&theme=tokyonight&hide_border=true" alt="Rinor Ajeti GitHub streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R4Ajeti&theme=tokyonight&hide_border=true" alt="Rinor Ajeti GitHub streak">
 </p>
